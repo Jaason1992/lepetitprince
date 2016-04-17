@@ -1,2 +1,2 @@
-#This is design by Jason !
-print "Hello World !"
+name=raw_input("Please input you name!""")
+print "Hello %s!"%name
